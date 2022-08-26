@@ -232,9 +232,3 @@ h3 {
   /* top: 100px; */
   transform: translateY(130px);
 }
-
-.contact {
-  display: flex;
-  justify-items: center;
-  align-items: center;
-}
